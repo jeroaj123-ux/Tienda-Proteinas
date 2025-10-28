@@ -4,4 +4,6 @@ Utilice HTML,CSS y JS vanilla, empleando conocimientos anteriormente adquiridos 
 
 Esta pagina es solo una simulacion, incluso al finalizar la compra ya esta previamente codeado para que salte una respuesta.
 
+Esta pagina no cuenta con buen soporte para celulares.
+
 Espero les guste :D.
